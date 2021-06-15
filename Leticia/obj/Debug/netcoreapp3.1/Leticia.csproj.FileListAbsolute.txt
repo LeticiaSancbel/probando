@@ -1,0 +1,9 @@
+C:\Users\letic\source\repos\Leticia\Leticia\bin\Debug\netcoreapp3.1\Leticia.deps.json
+C:\Users\letic\source\repos\Leticia\Leticia\bin\Debug\netcoreapp3.1\Leticia.dll
+C:\Users\letic\source\repos\Leticia\Leticia\bin\Debug\netcoreapp3.1\Leticia.pdb
+C:\Users\letic\source\repos\Leticia\Leticia\obj\Debug\netcoreapp3.1\Leticia.csproj.AssemblyReference.cache
+C:\Users\letic\source\repos\Leticia\Leticia\obj\Debug\netcoreapp3.1\Leticia.AssemblyInfoInputs.cache
+C:\Users\letic\source\repos\Leticia\Leticia\obj\Debug\netcoreapp3.1\Leticia.AssemblyInfo.cs
+C:\Users\letic\source\repos\Leticia\Leticia\obj\Debug\netcoreapp3.1\Leticia.csproj.CoreCompileInputs.cache
+C:\Users\letic\source\repos\Leticia\Leticia\obj\Debug\netcoreapp3.1\Leticia.dll
+C:\Users\letic\source\repos\Leticia\Leticia\obj\Debug\netcoreapp3.1\Leticia.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leticia", "Leticia\Leticia.csproj", "{D808D971-14CD-4908-B13A-D08A7E35EBFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cristina", "cristina\cristina.csproj", "{102BF85C-8BDE-4C9A-9913-C84C30D4BCC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D808D971-14CD-4908-B13A-D08A7E35EBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D808D971-14CD-4908-B13A-D08A7E35EBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D808D971-14CD-4908-B13A-D08A7E35EBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D808D971-14CD-4908-B13A-D08A7E35EBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{102BF85C-8BDE-4C9A-9913-C84C30D4BCC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102BF85C-8BDE-4C9A-9913-C84C30D4BCC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102BF85C-8BDE-4C9A-9913-C84C30D4BCC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102BF85C-8BDE-4C9A-9913-C84C30D4BCC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A718614B-9E73-4C6F-B232-0A93B3C66085}
+	EndGlobalSection
+EndGlobal
